@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class mthd_14
 {
     public static void main(String[] args) {
-        int i, sum=0, t=0;
+        int i, sum=0;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the numbers you want print in FIBONACCI series: ");
         int n = sc.nextInt();
